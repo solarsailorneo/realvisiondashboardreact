@@ -1,0 +1,8 @@
+{
+    "charts": {
+        "chart1": ["sample1a.csv", "sample1b.csv"],
+        "chart2": ["sample2a.csv", "sample2b.csv"],
+        "chart3": ["sample3a.csv", "sample3b.csv"],
+        "chart4": ["sample4a.csv", "sample4b.csv"]
+    }
+}
